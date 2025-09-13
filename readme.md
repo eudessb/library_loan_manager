@@ -3,8 +3,8 @@
 Gerenciador de empréstimo de livros em uma biblioteca escrito em **Java**.
 
 Autor: Eudes Silva  
-Versão: **1.0**
-Status: Em desenvolvimento e aprimoramento
+Versão: **1.0**  
+Status: Em desenvolvimento 
 
 ## Sobre o estado atual do projeto
 
