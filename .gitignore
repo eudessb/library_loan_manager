@@ -1,0 +1,30 @@
+# Arquivos de classe 
+
+*.class
+
+# Arquivos de log 
+
+*.log
+/log
+# Arquivos de pacote #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/wrapper/maven-wrapper.ja
